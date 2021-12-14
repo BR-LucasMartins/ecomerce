@@ -1,31 +1,31 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
-        'name' => 'lucasmartins/ecommerce',
+        'reference' => 'c49a9ae5ee41abe3afd41eb46eda024684bbc0ab',
+        'name' => 'hcodebr/ecommerce',
         'dev' => true,
     ),
     'versions' => array(
-        'lucasmartins/ecommerce' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+        'hcodebr/ecommerce' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => 'c49a9ae5ee41abe3afd41eb46eda024684bbc0ab',
             'dev_requirement' => false,
         ),
         'phpmailer/phpmailer' => array(
-            'pretty_version' => 'v5.2.22',
-            'version' => '5.2.22.0',
+            'pretty_version' => 'v6.1.6',
+            'version' => '6.1.6.0',
             'type' => 'library',
             'install_path' => __DIR__ . '/../phpmailer/phpmailer',
             'aliases' => array(),
-            'reference' => 'b18cb98131bd83103ccb26a888fdfe3177b8a663',
+            'reference' => 'c2796cb1cb99d7717290b48c4e6f32cb6c60b7b3',
             'dev_requirement' => false,
         ),
         'rain/raintpl' => array(
